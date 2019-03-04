@@ -1,5 +1,8 @@
 # coarse-grained-DDMP
 
+### This code is associated with the paper from Bozzi and Zimanyi et al., "Structures in multiple conformations reveal distinct transition metal and proton pathways in an Nramp transporter". eLife, 2019. http://dx.doi.org/10.7554/eLife.41124
+
+
 ### Execution:
 
 python coarse-grained-ddmp.py structure_1 chain_1 structure_2 chain_2 helix_indices.txt offset
