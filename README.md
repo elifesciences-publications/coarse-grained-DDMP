@@ -1,6 +1,6 @@
 # coarse-grained-DDMP
 
-### This code is associated with the paper from Bozzi and Zimanyi et al., "Structures in multiple conformations reveal distinct transition metal and proton pathways in an Nramp transporter". eLife, 2019. http://dx.doi.org/10.7554/eLife.41124
+### This code is associated with the paper from Bozzi, Zimanyi et al., "Structures in multiple conformations reveal distinct transition metal and proton pathways in an Nramp transporter". eLife, 2019. http://dx.doi.org/10.7554/eLife.41124
 
 
 ### Execution:
